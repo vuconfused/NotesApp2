@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="note">My Notes</string>
+    <string name="note_title">Notes Title</string>
+    <string name="note_sub_title">Notes Sub Title</string>
+    <string name="note_desc">Enter Notes Here</string>
+    <string name="Search">Search your notes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ok" />
+    <string name="cancel" />
+    <string name="web_url" />
+    <string name="storage_permission_text" />
+</resources>
